@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVIEo8rdmpuOeIOpSF70LqLYzqJW4uwnp16s7UKgJo2kzkJTPirTluxfOuUxJDAmqRGnmOu8nm/iONWyV7wJ4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohit Laptop\\Downloads\\sample-test-main\\sample-test-main\\TestProject\\TestProject\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohit Laptop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mohit Laptop\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mohit Laptop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

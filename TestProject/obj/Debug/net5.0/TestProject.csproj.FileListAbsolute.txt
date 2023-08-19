@@ -1,0 +1,23 @@
+C:\Users\mkala\source\repos\TestProject\TestProject\bin\Debug\net5.0\TestProject.deps.json
+C:\Users\mkala\source\repos\TestProject\TestProject\bin\Debug\net5.0\TestProject.dll
+C:\Users\mkala\source\repos\TestProject\TestProject\bin\Debug\net5.0\ref\TestProject.dll
+C:\Users\mkala\source\repos\TestProject\TestProject\bin\Debug\net5.0\TestProject.pdb
+C:\Users\mkala\source\repos\TestProject\TestProject\obj\Debug\net5.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkala\source\repos\TestProject\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\mkala\source\repos\TestProject\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfo.cs
+C:\Users\mkala\source\repos\TestProject\TestProject\obj\Debug\net5.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\mkala\source\repos\TestProject\TestProject\obj\Debug\net5.0\TestProject.dll
+C:\Users\mkala\source\repos\TestProject\TestProject\obj\Debug\net5.0\ref\TestProject.dll
+C:\Users\mkala\source\repos\TestProject\TestProject\obj\Debug\net5.0\TestProject.pdb
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\bin\Debug\net5.0\TestProject.deps.json
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\bin\Debug\net5.0\TestProject.dll
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\bin\Debug\net5.0\TestProject.pdb
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\obj\Debug\net5.0\TestProject.csproj.AssemblyReference.cache
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\obj\Debug\net5.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfo.cs
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\obj\Debug\net5.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\obj\Debug\net5.0\TestProject.dll
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\obj\Debug\net5.0\refint\TestProject.dll
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\obj\Debug\net5.0\TestProject.pdb
+C:\Users\Mohit Laptop\Downloads\sample-test-main\sample-test-main\TestProject\TestProject\TestProject\obj\Debug\net5.0\ref\TestProject.dll
